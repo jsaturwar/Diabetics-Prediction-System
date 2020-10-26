@@ -1,0 +1,1 @@
+https://node-red-simax-2020-09-30.eu-gb.mybluemix.net/ui/
